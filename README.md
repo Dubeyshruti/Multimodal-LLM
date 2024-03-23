@@ -2,7 +2,7 @@
 <h2><b><i>Earning call dataset</i></b></h2>
 MAEC, a large-scale multi-modal, text-audio paired dataset derived from S&amp;P 1500 companies' earnings calls. It provides a framework for processing similar financial data in the future, offering a valuable resource for research in financial risk prediction and analysis.
 
-<b>About Multi-Modal LLM</b>
+<h3><b>About Multi-Modal LLM</b></h3>
 A Model that can process and understand information from multiple modalities, such as text, audio, images, and video. Unlike traditional LLMs that focus solely on text, multimodal LLMs can leverage the strengths of different modalities to gain a richer understanding of the world.
 # Capabilties
 <blockquote> <i>Access to multiple modalities can improve the model's ability to generalize to unseen data. This is because the model learns not only from the content of each modality but also from the relationships between them.
